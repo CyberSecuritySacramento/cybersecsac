@@ -33,4 +33,4 @@ Various businesses in the midtown Sacramento area.
 
 ---
 
-<div align="center"> Designed with love <3
+<div align="center"> Designed with love by Kali <3
