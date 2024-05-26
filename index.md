@@ -30,3 +30,7 @@ Various businesses in the midtown Sacramento area.
 * Badge and Hardware hacking
 * CTFs
 * Reverse Engineering
+
+---
+
+<div align="center"> Designed with love <3
