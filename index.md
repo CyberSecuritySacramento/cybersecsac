@@ -26,11 +26,11 @@ Various businesses in the midtown Sacramento area.
 ---
 
 # Socials
-*[Twitter](https://twitter.com/CyberSecSac)
-*[Instagram](https://instagram.com/cybersecsac)
-*[Facebook](https://facebook.com/profile.php?id=61559952651821)
-*[Threads](https://www.threads.net/@cybersecsac)
-*[TikTok](https://tiktok.com/@cybersecsac)
+* [Twitter](https://twitter.com/CyberSecSac)
+* [Instagram](https://instagram.com/cybersecsac)
+* [Facebook](https://facebook.com/profile.php?id=61559952651821)
+* [Threads](https://www.threads.net/@cybersecsac)
+* [TikTok](https://tiktok.com/@cybersecsac)
 
 ---
 
