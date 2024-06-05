@@ -2,6 +2,10 @@
 
 ---
 
+# [Join Our Discord](https://discord.gg/9YeYME9tWa)
+
+---
+
 # About
 A group in the greater Sacramento County area for hackers, makers, tinkerers and security enthusiasts/professionals to meet and share projects/ideas. Current leaders are Echo419 and [Kali Jackson](https://twitter.com/radicalkjax).
 
