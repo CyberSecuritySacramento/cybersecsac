@@ -14,7 +14,7 @@ United States
 ---
 
 # Meeting Schedule
-Second Wednesday of the month at 7pm, with virtual meetings during August (hacker summer camp) and during November/December for the holidays. [Here's out Events Outlook Calendar](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/ac848189-829d-449e-b58f-2ac25373c5b6/cid-9FF9B8699EB1724A/index.html).
+Second Wednesday of the month at 7pm, with virtual meetings during August (hacker summer camp) and during November/December for the holidays. [Here's our Events Outlook Calendar](https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/ac848189-829d-449e-b58f-2ac25373c5b6/cid-9FF9B8699EB1724A/index.html).
 
 # Meeting Location
 Various businesses in the midtown Sacramento area.
