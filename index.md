@@ -9,6 +9,8 @@ A group in the greater Sacramento County area for hackers, makers, tinkerers and
 Sacramento, California
 United States
 
+# Last Updated / Changelog
+05/27/2024 / Adding Current Meeting date / location
 ---
 
 # Meeting Schedule
@@ -16,6 +18,10 @@ Second Wednesday of the month at 7pm, with virtual meetings during August (hacke
 
 # Meeting Location
 Various businesses in the midtown Sacramento area.
+
+# Current Meeting (June 2024)
+
+- Meeting date / location: Tuesday, June 11, 2024 / 2104 Sutterville Rd, Sacramento, CA 95822
 
 ---
 
