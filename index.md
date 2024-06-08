@@ -22,7 +22,7 @@ Second Wednesday of the month at 7pm, with virtual meetings during August (hacke
 
 # Current Meeting (June 2024)
 
-- Meeting date / location: Tuesday, June 11, 2024 / 2104 Sutterville Rd, Sacramento, CA 95822
+- Meeting date / location: Wednesday, June 12, 2024, 7pm / Starbucks located across from SCC @ 2104 Sutterville Rd, Sacramento, CA 95822
 
 ---
 
